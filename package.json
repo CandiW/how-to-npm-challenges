@@ -1,0 +1,26 @@
+{
+  "name": "candiw",
+  "version": "1.0.3",
+  "description": "npm lessons from fcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CandiW/how-to-npm-challenges.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "CandiW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CandiW/how-to-npm-challenges/issues"
+  },
+  "homepage": "https://github.com/CandiW/how-to-npm-challenges#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
